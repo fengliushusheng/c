@@ -1,0 +1,3 @@
+﻿  cai.c
+F:\c语言自学实践\work1\work1\cai.c(4,45): warning C4101: “n”: 未引用的局部变量
+  猜生日.vcxproj -> F:\c语言自学实践\work1\work1\猜生日\Debug\猜生日.exe
